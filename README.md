@@ -50,7 +50,7 @@ possam ser **entendidos, verificados e mantidos**.
 | [FinanceAgent](https://github.com/tslopes88/FinanceAgent_Git) | Conciliação bancária desktop, importação OFX/CSV, deduplicação e analytics |
 | [DocFlow Contábil](https://github.com/tslopes88/DocFlow-Contabil-Portfolio) | Saneamento de OFX, conversão documental e validação pós-processamento |
 | [App Tarefas Android](https://github.com/tslopes88/app-tarefas-android-unificado) | Organização de tarefas e experiência mobile |
-| [Meus estudos Dev](https://github.com/tslopes88/meus-estudos-dev) | Fundamentos, experimentos e evolução contínua |
+| [Perfil de código](https://github.com/tslopes88) | Estudos, experimentos e evolução contínua |
 
 ## Princípios de engenharia
 
@@ -82,6 +82,9 @@ Estou aprofundando:
 - automação contábil e processamento documental;
 - governança de IA baseada em evidência;
 - distribuição confiável de aplicações Windows.
+
+Projetos privados e soluções em desenvolvimento não são listados aqui; os
+repositórios públicos acima representam o material disponível para avaliação.
 
 ## Vamos conversar
 
