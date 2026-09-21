@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/tlopesolutions-banner.jpeg" alt="TLopeSolutions - System Operational - Secure Access" width="100%">
+
 # Thiago Lopes
 
 ### Software Engineer · Automation · Local-First Systems · Financial Workflows
