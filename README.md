@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tlopesolutions-banner.jpeg" alt="TLopeSolutions - System Operational - Secure Access" width="100%">
+<img src="./assets/tlopesolutions-banner.jpg" alt="TLopeSolutions - Stay Building" width="100%">
 
 # Thiago Lopes
 
