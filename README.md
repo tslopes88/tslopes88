@@ -4,7 +4,7 @@
 
 # Thiago Lopes
 
-### Software Engineer · Automation · Local-First Systems · Financial Workflows
+### Engenheiro de Software · Automação · Sistemas Local-First · Fluxos Financeiros
 
 <p>
 Construo software para transformar processos manuais em operações
@@ -29,6 +29,14 @@ Construo software para transformar processos manuais em operações
 
 Minha área de interesse é a interseção entre **automação de processos**,
 **engenharia de dados**, **aplicações desktop** e **produtos financeiros**.
+
+<p>
+  <a href="https://github.com/tslopes88/FinanceAgent_Git">Ver projeto principal</a>
+  ·
+  <a href="https://github.com/tslopes88">Explorar repositórios</a>
+  ·
+  <a href="https://wa.me/5527992577542">Falar comigo</a>
+</p>
 
 ```text
 Problema operacional
