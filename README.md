@@ -23,8 +23,6 @@ Construo software para transformar processos manuais em operações
 
 </div>
 
----
-
 ## O que eu construo
 
 Minha área de interesse é a interseção entre **automação de processos**,
