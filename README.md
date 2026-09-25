@@ -52,6 +52,10 @@ possam ser **entendidos, verificados e mantidos**.
 | [FinanceAgent](https://github.com/tslopes88/FinanceAgent_Git) | Conciliação bancária desktop, importação OFX/CSV, deduplicação e analytics |
 | [DocFlow Contábil](https://github.com/tslopes88/DocFlow-Contabil-Portfolio) | Saneamento de OFX, conversão documental e validação pós-processamento |
 | [App Tarefas Android](https://github.com/tslopes88/app-tarefas-android-unificado) | Organização de tarefas e experiência mobile |
+| [FinanceAgent Portfolio](https://github.com/tslopes88/FinanceAgent-Portfolio) | Visão pública do produto e da arquitetura, sem o código proprietário |
+| [Automação Contábil Meiri](https://github.com/tslopes88/Automacao-Contabil-Meiri-Portfolio) | Apresentação pública do fluxo de automação contábil |
+| [TLopeCare-Pro](https://github.com/tslopes88/TLopeCare-Pro-Portfolio) | Diagnóstico e manutenção preventiva para Windows |
+| [App Financeiro](https://github.com/tslopes88/App-Financeiro-Portfolio) | Produto local para receitas, despesas e metas |
 | [Perfil de código](https://github.com/tslopes88) | Estudos, experimentos e evolução contínua |
 
 ## Princípios de engenharia
