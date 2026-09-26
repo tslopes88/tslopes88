@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/tlopesolutions-logo.png" alt="TLopeSolutions - Automação, Software e Aprendizado" width="100%">
+<img src="./assets/tlopesolutions-logo-bio.png" alt="TLopeSolutions — Automação, Software e Aprendizado" width="100%">
 
 # Thiago Lopes
 
