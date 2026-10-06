@@ -1,7 +1,3 @@
-<div align="center">
-
-<img src="./assets/tlopesolutions-bio.png" alt="TLopeSolutions — Automação, Software e Aprendizado" width="100%">
-
 # Thiago Lopes
 
 ### Engenheiro de Software · Automação · Sistemas Local-First · Fluxos Financeiros
