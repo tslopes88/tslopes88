@@ -1,105 +1,64 @@
-# Thiago Lopes
-
-### Engenheiro de Software · Automação · Sistemas Local-First · Fluxos Financeiros
-
-<p>
-Construo software para transformar processos manuais em operações
-<strong>confiáveis, auditáveis e fáceis de usar</strong>.
-</p>
-
-<a href="https://github.com/tslopes88/FinanceAgent_Git">
-  <img src="https://img.shields.io/badge/FinanceAgent-Analytics-0f172a?style=for-the-badge&logo=python&logoColor=38bdf8" alt="FinanceAgent">
-</a>
-<a href="https://github.com/tslopes88/DocFlow-Contabil-Portfolio">
-  <img src="https://img.shields.io/badge/DocFlow-Contabil-0f172a?style=for-the-badge&logo=files&logoColor=38bdf8" alt="DocFlow Contabil">
-</a>
-<a href="https://github.com/tslopes88/app-tarefas-android-unificado">
-  <img src="https://img.shields.io/badge/Android-Productivity-0f172a?style=for-the-badge&logo=android&logoColor=3ddc84" alt="Android">
-</a>
-
-</div>
-
-## O que eu construo
-
-Minha área de interesse é a interseção entre **automação de processos**,
-**engenharia de dados**, **aplicações desktop** e **produtos financeiros**.
-
-<p>
-  <a href="https://github.com/tslopes88/FinanceAgent_Git">Ver projeto principal</a>
-  ·
-  <a href="https://github.com/tslopes88">Explorar repositórios</a>
-  ·
-  <a href="https://wa.me/5527992577542">Falar comigo</a>
-</p>
-
-```text
-Problema operacional
-        ↓
-Fluxo simples para o usuário
-        ↓
-Validação determinística
-        ↓
-Auditoria e evidência
-        ↓
-Resultado reproduzível
-```
-
-Não busco apenas fazer uma aplicação funcionar. Busco construir sistemas que
-possam ser **entendidos, verificados e mantidos**.
-
-## Projetos em destaque
-
-| Projeto | O que demonstra |
-| --- | --- |
-| [FinanceAgent](https://github.com/tslopes88/FinanceAgent_Git) | Conciliação bancária desktop, importação OFX/CSV, deduplicação e analytics |
-| [DocFlow Contábil](https://github.com/tslopes88/DocFlow-Contabil-Portfolio) | Saneamento de OFX, conversão documental e validação pós-processamento |
-| [App Tarefas Android](https://github.com/tslopes88/app-tarefas-android-unificado) | Organização de tarefas e experiência mobile |
-| [FinanceAgent Portfolio](https://github.com/tslopes88/FinanceAgent-Portfolio) | Visão pública do produto e da arquitetura, sem o código proprietário |
-| [Automação Contábil Meiri](https://github.com/tslopes88/Automacao-Contabil-Meiri-Portfolio) | Apresentação pública do fluxo de automação contábil |
-| [TLopeCare-Pro](https://github.com/tslopes88/TLopeCare-Pro-Portfolio) | Diagnóstico e manutenção preventiva para Windows |
-| [App Financeiro](https://github.com/tslopes88/App-Financeiro-Portfolio) | Produto local para receitas, despesas e metas |
-| [Perfil de código](https://github.com/tslopes88) | Estudos, experimentos e evolução contínua |
-
-## Princípios de engenharia
-
-- **Evidência antes de opinião:** logs, testes e resultados reais têm prioridade.
-- **Local-first quando privacidade importa:** dados sensíveis permanecem no
-  ambiente do usuário sempre que possível.
-- **Sugestão não é execução:** automação deve ter validação e rastreabilidade.
-- **Falha explícita:** erros não devem virar sucesso silencioso.
-- **Produto antes de complexidade:** tecnologia deve reduzir trabalho, não
-  aumentar a carga operacional.
-
-## Tecnologias
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/CustomTkinter-2563EB?style=flat-square">
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
-</p>
-
-## Em evolução
-
-Estou aprofundando:
-
-- arquitetura modular e testes de regressão;
-- interfaces desktop orientadas a fluxo;
-- automação contábil e processamento documental;
-- governança de IA baseada em evidência;
-- distribuição confiável de aplicações Windows.
-
-Projetos privados e soluções em desenvolvimento não são listados aqui; os
-repositórios públicos acima representam o material disponível para avaliação.
-
-## Vamos conversar
-
-📱 [WhatsApp](https://wa.me/5527992577542) · 💻 [GitHub](https://github.com/tslopes88)
-
 <div align="center">
 
-_Software útil é aquele que torna o trabalho mais claro, seguro e repetível._
+<a href="https://tslopes88.github.io/">
+  <img src="https://tslopes88.github.io/assets/tslopesolutions-banner.jpg" alt="TSLopeSolutions — software e automação sob medida" width="760">
+</a>
+
+# TSLopeSolutions // Engenharia de Software &amp; Automação em Python
+
+### Desenvolvimento de sistemas local-first, automação de rotinas contábeis/financeiras e motores de Inteligência Artificial sob medida.
+
+**Thiago Lopes** · Vila Velha, ES
+
+<a href="https://tslopes88.github.io/">
+  <img src="https://img.shields.io/badge/SITE_OFICIAL-TSLopeSolutions-0A1526?style=for-the-badge&logo=googlechrome&logoColor=00E5FF" alt="Acesse o site oficial da TSLopeSolutions">
+</a>
+<a href="https://wa.me/5527992577542?text=Ol%C3%A1%20Thiago!%20Vim%20pelo%20seu%20GitHub%20e%20quero%20falar%20sobre%20um%20projeto.">
+  <img src="https://img.shields.io/badge/WHATSAPP_COMERCIAL-FALAR_SOBRE_UM_PROJETO-0A1526?style=for-the-badge&logo=whatsapp&logoColor=FFC107" alt="Fale com a TSLopeSolutions pelo WhatsApp">
+</a>
 
 </div>
+
+---
+
+## O que construímos
+
+### Automação contábil e financeira
+
+Conversores de extratos bancários, conciliação automática, geração de lotes para sistemas contábeis e relatórios em Excel e PDF. O objetivo é reduzir digitação repetitiva e tornar as conferências mais rastreáveis.
+
+### Sistemas desktop e local-first
+
+Aplicações que rodam na máquina da empresa, com foco em resposta rápida e controle local dos dados. Usamos Python, PyWebView, CustomTkinter, Streamlit e SQLite conforme o fluxo e o contexto do projeto.
+
+### Arquitetura de IA aplicada
+
+Motores modulares com roteamento de modelos de linguagem, como o Genos IA, e assistentes operacionais por voz e texto. A IA entra para apoiar tarefas concretas, com integração ao processo e visibilidade da execução.
+
+## Projetos &amp; ecossistema
+
+| Projeto | Aplicação |
+| --- | --- |
+| **Genos IA (ARC-1 Core)** | Hub modular de IA local em Python, com fallback entre modelos de linguagem, síntese de voz e telemetria. [Ver demonstração](https://tslopes88.github.io/#demonstracao) |
+| **Gestão Contábil &amp; Lumos** | Sistema desktop para processamento de lotes bancários e apoio à rotina contábil, com assistente virtual integrado. [Ver portfólio](https://github.com/tslopes88/gestao-contabil-demo) |
+| **Cronos Finance** | Aplicação em Streamlit e SQLite para gestão financeira, rateio automatizado e categorização de transações com IA. |
+| **TLopeCare-Pro** | Ferramenta em PowerShell para diagnóstico e manutenção preventiva de sistemas Windows. [Ver apresentação](https://github.com/tslopes88/TLopeCare-Pro-Portfolio) |
+
+## Stack tecnológica
+
+<p>
+  <img src="https://img.shields.io/badge/Python-0A1526?style=for-the-badge&logo=python&logoColor=00E5FF" alt="Python">
+  <img src="https://img.shields.io/badge/SQLite-0A1526?style=for-the-badge&logo=sqlite&logoColor=00E5FF" alt="SQLite">
+  <img src="https://img.shields.io/badge/Pandas-0A1526?style=for-the-badge&logo=pandas&logoColor=00E5FF" alt="Pandas">
+  <img src="https://img.shields.io/badge/OpenPyXL-0A1526?style=for-the-badge&logo=files&logoColor=FFC107" alt="OpenPyXL">
+  <img src="https://img.shields.io/badge/Streamlit-0A1526?style=for-the-badge&logo=streamlit&logoColor=FFC107" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0A1526?style=for-the-badge&logo=tailwindcss&logoColor=00E5FF" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-0A1526?style=for-the-badge&logo=html5&logoColor=00E5FF" alt="HTML5 e CSS3">
+  <img src="https://img.shields.io/badge/PowerShell-0A1526?style=for-the-badge&logo=powershell&logoColor=00E5FF" alt="PowerShell">
+  <img src="https://img.shields.io/badge/Git-0A1526?style=for-the-badge&logo=git&logoColor=FFC107" alt="Git">
+</p>
+
+## Contato
+
+**Thiago Lopes** · Vila Velha, Espírito Santo<br>
+[Site oficial](https://tslopes88.github.io/) · [WhatsApp comercial](https://wa.me/5527992577542?text=Ol%C3%A1%20Thiago!%20Vim%20pelo%20seu%20GitHub%20e%20quero%20falar%20sobre%20um%20projeto.) · [Repositórios públicos](https://github.com/tslopes88?tab=repositories)
