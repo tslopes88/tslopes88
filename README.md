@@ -1,8 +1,10 @@
-<div align="center">
-
+<p align="center">
 <a href="https://tslopes88.github.io/">
-  <img src="https://tslopes88.github.io/assets/tslopesolutions-banner.jpg" alt="TSLopeSolutions — software e automação sob medida" width="760">
+  <img src="https://tslopes88.github.io/assets/tslopesolutions-banner.jpg" alt="TSLopeSolutions — Engenharia de Software &amp; Automação em Python" width="100%">
 </a>
+</p>
+
+<div align="center">
 
 # TSLopeSolutions // Engenharia de Software &amp; Automação em Python
 
